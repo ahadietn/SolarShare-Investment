@@ -1,0 +1,65 @@
+{
+  "projects":[
+  {
+    "id": 1,
+    "name": "Community Solar Farm - Lagos",
+    "location": "Lagos, Nigeria",
+    "capacity": "50 kW",
+    "minInvestment": "$10",
+    "image":"https://www.pv-tech.org/wp-content/uploads/2024/08/nexamp-1024x699.jpg",
+    "co2Saved": 1200,
+    "energyProduced": 15000
+  },
+  {
+    "id": 2,
+    "name": "Kajiado West School's Solar Project - Kajiado",
+    "location": "Nairobi, Kenya",
+    "capacity": "35 kW",
+    "minInvestment": "$3",
+    "image": "https://www.unicef.org/zimbabwe/sites/unicef.org.zimbabwe/files/styles/hero_extended/public/solar%20ngaone%20solar.jpeg.webp?itok=xrUKZAMp",
+    "co2Saved": 2500,
+    "energyProduced": 22000
+  },
+  {
+    "id": 3,
+    "name": "Juba state Solar Project - South Sudan",
+    "location": "Juba, South Sudan",
+    "capacity": "45 kW",
+    "minInvestment": "$7",
+    "image": "https://renewableenergynews.co.ke/wp-content/uploads/2025/01/AMMEWU10.jpg",
+    "co2Saved": 2500,
+    "energyProduced": 10000
+  },
+   {
+    "id": 4,
+    "name": "Community Solar Project - South Africa",
+    "location": "Cape Town, South Africa",
+    "capacity": "100 kW",
+    "minInvestment": "$35",
+    "image": "https://pv-magazine-usa.com/wp-content/uploads/sites/2/2025/03/Washington-1200x800.jpg",
+    "co2Saved": 5000,
+    "energyProduced": 30000
+   },
+   {
+    "id": 5,
+    "name": "Kerugoya dairy Solar Project - Kirinyaga",
+    "location": "Nairobi, Kenya",
+    "capacity": "35 kW",
+    "minInvestment": "$5",
+    "image": "https://www.agproud.com/ext/resources/2024/07/30/59908-mcaloon-mccrea-farms-gen-expand.webp?t=1722444271&width=1080",
+    "co2Saved": 2500,
+    "energyProduced": 22000
+   },
+   {
+    "id": 6,
+    "name": "Johannesburg Solar Project - South Africa",
+    "location": "Johannesburg, Kenya",
+    "capacity": "85 kW",
+    "minInvestment": "$30",
+    "image": "https://solarlandscape.com/wp-content/uploads/2023/09/SolarLandscape_CS2_777-Lehigh-Ave-Union-NJ_H.-Schultz-Sons-scaled.jpg",
+    "co2Saved": 3500,
+    "energyProduced": 25000
+   }
+],
+"investments": []
+}
